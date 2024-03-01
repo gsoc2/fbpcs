@@ -1,4 +1,4 @@
-FROM python:3.8-slim
+FROM python:3.13.0a4-slim
 
 # Set BUNDLE_ID ENV
 ARG FBPCS_BUNDLE_ID
